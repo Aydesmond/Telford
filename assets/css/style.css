@@ -7262,7 +7262,7 @@ textarea:focus-within {
   border: 1px solid var(--floating-content-border-color);
   box-shadow: -40px 40px 60px 0px rgba(5, 30, 54, 0.05);
   border-radius: 16px;
-  margin-bottom: -70px;
+  margin-bottom: -31px;
 
 }
 @media (min-width: 768px) {

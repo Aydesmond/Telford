@@ -11157,7 +11157,7 @@ html[data-bs-theme=dark] .partner--gradient::after {
 }
 
 .formhere{
-  width: 380px; 
+  max-width: 320px; 
   height: 4500px ;
   position: relative;
   margin-left: auto;

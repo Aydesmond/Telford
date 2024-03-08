@@ -11160,6 +11160,8 @@ html[data-bs-theme=dark] .partner--gradient::after {
   width: 380px; 
   height: 4500px ;
   position: relative;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .rectangle {

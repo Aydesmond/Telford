@@ -11157,11 +11157,22 @@ html[data-bs-theme=dark] .partner--gradient::after {
 }
 
 .formhere{
-  max-width: 320px; 
+  width: 1220px; 
+  height: 4300px ;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* #400843 */
+@media only screen and (max-width: 600px) {
+  .formhere {
+    max-width: 320px; 
   height: 4500px ;
   position: relative;
   margin-left: auto;
   margin-right: auto;
+  }
 }
 
 .rectangle {

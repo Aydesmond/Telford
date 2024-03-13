@@ -11167,7 +11167,7 @@ html[data-bs-theme=dark] .partner--gradient::after {
 /* #400843 */
 @media only screen and (max-width: 600px) {
   .formhere {
-    max-width: 320px; 
+    max-width: 330px; 
   height: 4500px ;
   position: relative;
   margin-left: auto;
